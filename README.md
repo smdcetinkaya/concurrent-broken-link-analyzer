@@ -19,7 +19,7 @@ Büyük ve dinamik olarak büyüyen web sitelerinde zamanla şu problemler ortay
 
 > Bu uygulama, link analizini otomatikleştirerek detaylı ve yapılandırılmış bir raporlama sunar.
 
-## 🔎 Uygulamanın Tespit Ettiği Bilgiler
+### 🔎 Uygulamanın Tespit Ettiği Bilgiler
 
 Her hatalı link için sistem şu bilgileri raporlar:
 

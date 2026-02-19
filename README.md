@@ -2,7 +2,7 @@
 
 Derinlik kontrollü tarama yapabilen, asenkron ve paralel işlem desteğine sahip bir web sitesi analiz uygulamasıdır.
 
-Bu uygulama; performans, eşzamanlılık yönetimi ve kalıcı veri saklama odaklı tasarlanmış olup, tarama sırasında kullanıcı arayüzünün akıcı kalmasını hedefler.
+**Bu uygulama; performans, eşzamanlılık yönetimi ve kalıcı veri saklama odaklı tasarlanmış olup, tarama sırasında kullanıcı arayüzünün akıcı kalmasını hedefler.**
 
 ---
 

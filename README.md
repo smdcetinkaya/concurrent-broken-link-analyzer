@@ -1,4 +1,4 @@
-## Concurrent Broken Link Analyzer
+# Concurrent Broken Link Analyzer
 
 Derinlik kontrollü tarama yapabilen, asenkron ve paralel işlem desteğine sahip bir web sitesi analiz uygulamasıdır.
 

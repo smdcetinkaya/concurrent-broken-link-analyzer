@@ -102,3 +102,11 @@ Uygulama aşağıdaki katmanlardan oluşur:
 - Performans Optimizasyonu
 
 ---
+
+## 📸 Screenshots
+
+![Main Interface](screenshots/main.png)
+![Scan Results](screenshots/scan1.png)
+![Scan Results](screenshots/scan2.png)
+
+---
